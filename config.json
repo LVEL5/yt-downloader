@@ -1,0 +1,7 @@
+{
+    "ffmpeg_path": "",
+    "save_directory": "~/Downloads/YouTube Downloads",
+    "default_quality": "Best Quality",
+    "auto_download_thumbnails": true,
+    "enable_notifications": false
+}
